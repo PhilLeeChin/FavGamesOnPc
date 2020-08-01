@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  game_client: MyString
+  tags: MyText
+  genres: MyText
+  description: MyText
+
+two:
+  name: MyString
+  game_client: MyString
+  tags: MyText
+  genres: MyText
+  description: MyText
